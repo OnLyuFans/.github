@@ -1,2 +1,1 @@
-# .github
-BroLyu is watching you.
+# BroLyu is watching you.
